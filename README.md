@@ -1,3 +1,6 @@
+
+<img width="1595" height="774" alt="0038_Prova_screenshot_20260416_091135_COMPOSITA_01" src="https://github.com/user-attachments/assets/a9325c8a-31f8-4381-9b24-4ad7a89994ea" />
+
 # 🔍 Forensic Image Annotator — v. 0.1
 
 
